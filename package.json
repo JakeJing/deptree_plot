@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "dependencytreejs": "github:kirianguiller/DependencyTreeJS",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4",
     "vue": "^3.2.13"
   },
   "devDependencies": {
