@@ -1,0 +1,17 @@
+#input-box {
+  width: 1200px;
+  height: 300px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+#input-box::placeholder {
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+}
+
+#show-deptre {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
